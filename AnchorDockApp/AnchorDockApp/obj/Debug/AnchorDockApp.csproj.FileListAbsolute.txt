@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\AnchorDockApp\AnchorDockApp\bin\Debug\AnchorDockApp.exe.config
+C:\Users\User\source\repos\AnchorDockApp\AnchorDockApp\bin\Debug\AnchorDockApp.exe
+C:\Users\User\source\repos\AnchorDockApp\AnchorDockApp\bin\Debug\AnchorDockApp.pdb
+C:\Users\User\source\repos\AnchorDockApp\AnchorDockApp\obj\Debug\AnchorDockApp.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\AnchorDockApp\AnchorDockApp\obj\Debug\AnchorDockApp.Form1.resources
+C:\Users\User\source\repos\AnchorDockApp\AnchorDockApp\obj\Debug\AnchorDockApp.Properties.Resources.resources
+C:\Users\User\source\repos\AnchorDockApp\AnchorDockApp\obj\Debug\AnchorDockApp.csproj.GenerateResource.cache
+C:\Users\User\source\repos\AnchorDockApp\AnchorDockApp\obj\Debug\AnchorDockApp.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\AnchorDockApp\AnchorDockApp\obj\Debug\AnchorDockApp.exe
+C:\Users\User\source\repos\AnchorDockApp\AnchorDockApp\obj\Debug\AnchorDockApp.pdb
+C:\Users\User\source\repos\AnchorDockApp\AnchorDockApp\obj\Debug\AnchorDockApp.exe.config
